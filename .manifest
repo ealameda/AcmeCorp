@@ -1,0 +1,13 @@
+repository: asset
+asset:
+  urn: urn:asset:1234:acme-corp:3456:e-commerce-app
+  id: 1234
+  name: acme-corp
+  # optional
+  area:
+    id: 3456
+    name: e-commerce-app
+adrs:
+    - path: doc/adr
+documentation:
+    - path: /doc
